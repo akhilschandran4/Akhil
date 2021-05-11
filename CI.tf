@@ -4,7 +4,7 @@ terraform {
  storage_account_name = "__terraformstorageaccount__"
      container_name       = "terraform4"
      key                  = "terraform.tfstate"
-	access_key  ="aNEQGJVwLwAqcUi/cC1dUxZ4pKOs9W91z5ct/sNkmqwQLEvQGR8siW4thHWr/TvkRWizaO5ZIlkzazloC8Y7sA=="
+	access_key  ="W53pgC9BQOhD9GaS8qiTE9wKWhMDbda4BSMjHnN10JgkWgGI28zXYaNE9L5I327BaMHQOzIeeaoOzEBDZo6dgQ=="
   features{}
 	}
 	}
