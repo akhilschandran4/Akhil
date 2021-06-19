@@ -13,7 +13,7 @@ terraform {
 features {}
 }
 resource "azurerm_resource_group" "dev" {
-  name     = "PULTerraform4"
+  name     = "__terraformstorageaccount__"
   location = "West Europe"
 }
 
